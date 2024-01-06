@@ -1,0 +1,12 @@
+1. xpath questions
+2. where you used interface in your project
+3. what is this keyword? where is it used?
+4. Exract the numers from a string
+5. what is listener features? How you used it in your project?
+6. What is use of @Test?
+7. Atomation frameword structure?
+8. //How you will take screenshot
+9. Extract text from the dropdown without getText method?
+10. Method overloading and overriding? where you used in project?
+11. How to do group execution? Group name is regression testing?
+12. 
